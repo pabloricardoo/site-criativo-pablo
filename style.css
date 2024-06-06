@@ -24,7 +24,7 @@
 }
 
 .escola-imagem{
-    width: 20%;
+    width: 10%;
 }
 
 .escola{
@@ -49,7 +49,19 @@
 }  
 
 .estudante-imagem{
-    width: 13%;
+    width: 10%;
+}
+.estudante-icone{
+    width: 35px;
+}
+
+.estudante-div{
+    text-align: center;
+    padding: 20px 20px;
+}
+
+.estudantes{
+    
 }
 
 
